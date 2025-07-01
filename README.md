@@ -1,6 +1,6 @@
 # Análise de Redes com Streamlit e Pyvis
 
-Esta aplicação interativa permite analisar redes complexas de agentes e afiliações com base em dados de um dataset do Kaggle.
+Esta aplicação interativa permite analisar redes complexas de agentes e afiliações com base em dados de um dataset do Kaggle (https://www.kaggle.com/datasets/marthadimgba/spy-agency-dataset-2024/data).
 
 ## Funcionalidades
 
@@ -23,7 +23,7 @@ Esta aplicação interativa permite analisar redes complexas de agentes e afilia
 1. Clone este repositório:
 
 bash
-git clone https://github.com/seu-usuario/seu-repo.git
+- git clone https://github.com/seu-usuario/seu-repo.git
 
-Para executar:
-streamlit run app.py
+- Para executar:
+  - streamlit run app.py
